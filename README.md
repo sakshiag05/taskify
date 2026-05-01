@@ -1,4 +1,4 @@
-# 🚀 TaskFlow — Team Task Manager
+# 🚀 Taskify — Team Task Manager
 
 A full-stack team task management application with role-based access control, project tracking, Kanban board, and real-time dashboards.
 
@@ -69,7 +69,7 @@ A full-stack team task management application with role-based access control, pr
 ```bash
 # Clone the repo
 git clone <your-repo-url>
-cd team-task-manager
+cd taskify
 
 # Install dependencies
 npm install

@@ -1,5 +1,5 @@
 {
-  "name": "team-task-manager",
+  "name": "taskify",
   "version": "1.0.0",
   "description": "Full-stack Team Task Manager with Role-Based Access Control",
   "main": "src/app.js",
